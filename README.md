@@ -53,3 +53,38 @@ Launches the test runner in the interactive watch mode.
 ### `npm run build`
 
 Builds the app for production to the `dist` folder.
+
+# Screenshots for showcase
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a6adaf44-e88a-459f-9a42-7241bf6ad9a5" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/26c4582d-c7b8-494d-9dcf-407851640fb3" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/0eeaa00e-417c-4fed-9e42-135ad115bc35" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/280e1430-1413-4a20-bd26-c01cdbaf1fb1" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/7aad2004-4574-4082-bd29-2b481c3d6eac" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/57d7f1e8-6692-403e-8ca8-4d10f657e187" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9b95a49a-1de3-4dbe-ae3d-78efa6c7d78d" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/46d1251f-8fd4-4c6b-8e92-c2b4f1841f24" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/fed4166b-48ba-425b-afab-f372099202b1" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/68129df4-2ab8-4827-b989-7a0ce4123ae9" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2ef2ad21-7557-4ad0-afc7-29d764761def" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f59ab581-5b85-4687-9b7e-9b9ea2b50079" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6bf3b9a1-17f8-43f6-9ed1-3dc90dfc90cc" />
+
+
+
+
+
+
+
+
